@@ -1,0 +1,168 @@
+body{
+            
+    font-family: 'Roboto', sans-serif;
+    
+}
+.logo {
+    padding: 20px 3px 5px 15px
+
+}
+
+.text {
+    font-size: 25px;
+    position: absolute; 
+    margin: 35px 3px;
+
+}
+
+.backgroundcolor {
+    background-color: aliceblue;
+    height: 40%;
+    padding: 3px 2px 2px 1px ;
+}
+nav{
+    width: 100%;
+    display: inline-block;
+    align-items: center;
+    margin: 2px ;
+    font-weight: 200;
+
+}
+
+ul {
+
+    list-style-type: none;
+    color: gray;
+    float: right;
+    display: block;
+    align-items: center;
+
+}
+li {
+    display: inline;
+    margin: 0px 20px;
+    font-size: 20px;
+    color: rgb(43, 42, 42);
+    
+    
+}
+.guote {
+    background-color:orangered; 
+    height: 50px;
+    padding: 15px ;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    width: 150px;
+    display: inline-block;
+    color: white;
+    
+}
+.slide {
+    float: right;
+    width: 30%;
+    margin: 0px 80px; 
+    display: inline;
+}
+.WelcomeText {
+    font-size: 400%;
+    text-align: left; 
+    margin: 6% 0px 0px 20px; 
+    font-family: 'Roboto', sans-serif;
+}
+.Welcomepra {
+    margin: 20px 20px ; 
+    padding-top: 3%;
+}
+.icon {
+
+    width: 20px;
+    
+
+}
+.button1{
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: -30px;
+    left: 18px;
+    margin: 0px 20px 0px 0px;
+}
+.button2{
+    display: inline-block;
+    color: white;
+    padding: 10px 55px;
+    position: relative;
+    top: -30px;
+    left: 20px;
+
+}
+
+
+.orange{
+    width: 350px;
+
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 40px 10px 10px;
+    text-align: center;
+    display: inline-block;
+    
+    
+   
+}
+.grapes{
+    width: 350px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 40px 10px 10px;
+    text-align: center;
+    display: inline-block;
+}
+.gauva{
+    width: 350px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 40px 10px 10px;
+    text-align: center;
+    display: inline-block;
+}
+hr{
+    width: 40%;
+    margin: 10px;
+}
+table{
+    margin: 20px;
+}
+td{
+    width: 350px;
+}
+.button {
+    
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 10px 32px;
+        text-align: center;
+        display:inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+
+  }
+  input[type=text] {
+    color: gray;
+  }
+  input[type=number] {
+    color: gray;
+  }
+  input[type=email] {
+    color: gray;
+    
+  }
+ .contactus{
+    padding-top: 100px;
+ }
